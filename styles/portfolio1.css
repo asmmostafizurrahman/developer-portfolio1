@@ -74,6 +74,7 @@ nav li {
     font-size: 18px;
     color: #757575;
     margin-bottom: 30px;
+    max-width: 900px;
 }
 
 /* main section */
